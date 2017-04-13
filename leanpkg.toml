@@ -1,0 +1,6 @@
+[package]
+name = "demopkg"
+version = "0.1"
+
+[dependencies]
+library_dev = { git = "https://github.com/gebner/library_dev", rev = "6a0ba5870db86ada6d53934cb30707e2a2352725" }
